@@ -1,5 +1,5 @@
 # RRAM
-A **R**iemannian **R**ank-**A**daptive **M**ethod for low-rank matrix completion
+A MATLAB solver for low-rank matrix completion based on a **R**iemannian **R**ank-**A**daptive **M**ethod
 
 ## How to run
 
