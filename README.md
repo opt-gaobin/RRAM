@@ -14,7 +14,7 @@ run Install_mex.m
   + ``test_rank_reduction.m``
 
 ## References
-[Bin Gao](https://www.gaobin.cc/), [P.-A. Absil](https://sites.uclouvain.be/absil/)
+[Bin Gao](https://www.gaobin.cc/) [P.-A. Absil](https://sites.uclouvain.be/absil/)
 + [A Riemannian rank-adaptive method for low-rank matrix completion](https://arxiv.org/)
 
 ## Authors
