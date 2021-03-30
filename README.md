@@ -15,7 +15,7 @@ run Install_mex.m
 
 ## References
 [Bin Gao](https://www.gaobin.cc/) [P.-A. Absil](https://sites.uclouvain.be/absil/)
-+ [A Riemannian rank-adaptive method for low-rank matrix completion](https://arxiv.org/)
++ [A Riemannian rank-adaptive method for low-rank matrix completion](https://arxiv.org/abs/2103.14768)
 
 ## Authors
 + [Bin Gao](https://www.gaobin.cc/) (UCLouvain, Belgium)
